@@ -1,6 +1,6 @@
 # marketing
 
 
-### Product feed
+### Bookmark
 Reference:
-- https://developers.google.com/shopping-content/v2/reference/v2/products
+- Product feed : https://developers.google.com/shopping-content/v2/reference/v2/products
